@@ -24,6 +24,5 @@
     <ClInclude Include="ILS\ILS_StdLog.h">
       <Filter>ILS</Filter>
     </ClInclude>
-    <ClInclude Include="Header.h" />
   </ItemGroup>
 </Project>
