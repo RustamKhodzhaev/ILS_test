@@ -162,6 +162,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Header.h" />
     <ClInclude Include="ILS\ILS_Defines.h" />
     <ClInclude Include="ILS\ILS_Logger.h" />
     <ClInclude Include="ILS\ILS_LoggerStream.h" />
